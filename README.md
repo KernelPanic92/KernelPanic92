@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iacopo Ciao</h1>
-<h3 align="center">A passion driven full stack developer very skilled in problem solving and architecture design, with an eye on code style and SOLID principles.</h3>
+<h3 align="center">Ciao, I'm Iacopo Ciao! Exactly: like the greeting! I’m a full stack developer very skilled in problem solving and architecture design, with an eye on code style and SOLID principles. My work reflects my love for my profession through the creation of effective and elegant solutions, my meticulousness through flexible and maintainable code, strongly inspired by authors such as Robert C. Martin, Vaughn Vernon and Eric Evans. My colleagues define me as a senior who never stops at the first answer and always tries to go into the substance of the issues.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelpanic92&label=Profile%20views&color=0e75b6&style=flat" alt="kernelpanic92" /> </p>
 
